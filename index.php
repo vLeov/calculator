@@ -1,10 +1,3 @@
-<?php
-
-include('../vendor/autoload.php');
-
-?>
-
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
